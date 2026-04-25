@@ -1,0 +1,41 @@
+{
+  "name": "@codeagentjp/law-diff-mcp",
+  "version": "0.1.0",
+  "description": "Local stdio MCP server for finding Japanese e-Gov law revisions and diffing law text by law history ID.",
+  "type": "module",
+  "bin": {
+    "law-diff-mcp": "bin/law-diff-mcp.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "egov",
+    "japanese-law",
+    "law",
+    "law-diff",
+    "legal-tech",
+    "japan",
+    "revision"
+  ],
+  "author": "codeagent.jp",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAYOUWORLD/law-diff-mcp.git"
+  },
+  "homepage": "https://codeagent.jp/tools/law-diff-mcp",
+  "bugs": {
+    "url": "https://github.com/SHAYOUWORLD/law-diff-mcp/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
