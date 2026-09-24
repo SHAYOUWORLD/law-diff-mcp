@@ -150,6 +150,8 @@ Suggested attribution:
 
 - [@codeagentjp/egov-law-mcp](https://github.com/SHAYOUWORLD/egov-law-mcp)
 - [@codeagentjp/houan-mcp](https://github.com/SHAYOUWORLD/houan-mcp)
+- Amendment watch with e-Gov `law_revisions` (Japanese): [法令改正チェックを定期実行する (codeagent.jp)](https://codeagent.jp/posts/egov-law-amendment-watch-with-claude-code/)
+- Other Japanese public-data APIs and MCP servers: [codeagent.jp/guides/public-data-api/](https://codeagent.jp/guides/public-data-api/)
 
 ## License
 
